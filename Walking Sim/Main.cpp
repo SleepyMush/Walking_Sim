@@ -6,7 +6,7 @@
 #include "STB/stb_image.h"
 #include <iostream>
 
-#include<gl/glut.h>
+//#include<gl/glut.h>
 
 
 #include "Header Files/Shader.hpp"
